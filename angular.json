@@ -91,7 +91,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["weather-app\node_modules"]
           }
         },
         "lint": {
